@@ -149,9 +149,10 @@ python Logistic.py
 
 ###  Project Files
 
-* [ Source Code (main.py)](src/main.py)
+* [ Source Code (non-linear.ipynb)](01_nonlinear_regression/non-linear.ipynb)
+* [ Source Code (Logistic.ipynb)](02_logistic_regression/Logistic.ipynb)
 * [ Dataset (customer_data.csv)](data/customer_data.csv)
-* [ Report (Report.pdf)](doc/Report.pdf)
+* [ Report (Representation.pptx)](doc/Representation.pptx)
 
 ---
 
